@@ -1,2 +1,6 @@
 #!/bin/bash
 ls -la -R
+echo ""
+ls -la -R ..
+echo ""
+ls -la -R /boot
