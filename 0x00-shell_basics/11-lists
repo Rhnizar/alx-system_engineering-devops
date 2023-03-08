@@ -1,5 +1,3 @@
 #!/bin/bash
 ls -la -R
-echo ""
-#ls -la -R ..
 ls -la -R /boot
