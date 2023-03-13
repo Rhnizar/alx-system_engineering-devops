@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -t | heas -n 10
